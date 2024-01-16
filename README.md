@@ -9,5 +9,5 @@ site feito em **HTML5 & CSS3** para criação de blog simples e estudo de **sêm
 ### Tags
 - Listagem de tags para todos os tipos de blogs
 ## Funcionamento
-### Opttimizado para ser **Responsivo**
+### Optimizado para ser **Responsivo**
 <img src="2024-01-16-14-48-37.gif" />
