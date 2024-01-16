@@ -10,4 +10,4 @@ site feito em **HTML5 & CSS3** para criação de blog simples e estudo de **sêm
 - Listagem de tags para todos os tipos de blogs
 ## Funcionamento
 ### Opttimizado para ser **Responsivo**
-<img src="img/2023-12-12-19-22-20.gif" />
+<img src="2024-01-16-14-48-37.gif" />
